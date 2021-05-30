@@ -1,0 +1,1 @@
+python3 ./Problem2/main.py --mode test --test_img_path $1 --pred_path $2
